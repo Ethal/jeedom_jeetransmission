@@ -1,7 +1,7 @@
-==== Transmission, gestionnaire de bittorrent
+==== Übertragung, Bittorrent-Manager
 
-Ce plugin permet de s'interfacer avec Transmission
+Dieses Plugin ermöglicht eine Schnittstelle für Übertragung
 
-Il récupère les informations du statut de Transmission (download en cours, terminés ...)
+Er ruft die Informationen des Übertragungsstatus ab (Download läuft, abgeschlossen ...)
 
-Il permet également de piloter Transmission (supprimer un torrent, purger un torrent ...)
+Es erlaubt auch, Übertragung zu steuern (einen Torrent löschen, einen Torrent reinigen ...)
